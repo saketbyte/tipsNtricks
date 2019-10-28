@@ -202,6 +202,12 @@
 27. **LIfe360** - Locate your family and friends using GPS
 28. **AdAway** - Block most of Ads on your phone
 29. **SplitWise** - Split bills and expenses with friends
+30. **Cyberflix**- Watch latest series and movies
+31. **alarmy**- Solve math problems,capture a same photo again and much more to just wake up and get back to work
+32. **duolingo** - Learn a second language with flash cards and simple games.
+33. **Pomodoro timer**- To boost your productivity and time management skills.
+34. **anybooks**- to access most of the engineering books, novels and other documents.
+35. **headspace**- to have some meditation guide to relax in this fast pace life
 
 ## Linux commands and shortcuts
 1. **ps -el | grep &lt;application name&gt;** - to get the process id of the process.
